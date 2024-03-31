@@ -1,0 +1,28 @@
+html{
+  background-color: #FFEBB2 ;
+}
+
+h1{
+color: #C08B5C;
+text-align: center;
+background-color: #0C0C0C;
+}
+
+ #da{
+  text-align: center;
+  border: 10px solid black;
+  padding: 10px;
+  background-color:#97E7E1 ;
+ }
+
+ #db{
+  border: 10px solid black;
+  padding: 10px;
+  text-align: center;
+  font-size: larger;
+  background-color: aqua;
+ }
+ 
+ #pb{
+  color: rgb(19, 6, 114);
+ }
